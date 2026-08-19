@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Developing+full-stack+products;Turning+ideas+into+real+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Developing+full-stack+products;Turning+ideas+into+real+projects" />
 
 </div>
 
@@ -42,24 +42,21 @@ PropInsight AI combines machine learning, explainable AI, comparable-property an
 `🧠 ML Valuation` `🔍 Explainable AI` `🏘️ Comparable Analysis` `🤖 LLM Analysis`
 
 **Tech Stack**
-<center>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM-111111?style=for-the-badge" />
-</center>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-111111?style=for-the-badge" />
 
 <p>
-  <center>
-    <a href="YOUR_PROPINSIGHT_LIVE_URL">
-      <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit-6C63FF?style=for-the-badge"/>
-    </a>
-    <a href="https://github.com/jaishmomin/propinsight-ai">
-      <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
-    </a>
-  </center>
+  <a href="YOUR_PROPINSIGHT_LIVE_URL">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit-6C63FF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/jaishmomin/propinsight-ai">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
@@ -76,23 +73,19 @@ A complete assessment system with student and admin workflows, timed examination
 
 **Tech Stack**
 
-<center>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</center>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
 <p>
-  <center>
-    <a href="https://digital-microsys.vercel.app">
-      <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit-4F8CFF?style=for-the-badge"/>
-    </a>
-    <a href="https://github.com/jaishmomin/digital-microsys">
-      <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
-    </a>
-  </center>
+  <a href="https://digital-microsys.vercel.app">
+     <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit-4F8CFF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/jaishmomin/digital-microsys">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
@@ -109,21 +102,17 @@ A PHP and MySQL application for managing residential and commercial properties, 
 
 **Tech Stack**
 
-<center>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SMTP-4A90E2?style=for-the-badge" />
-</center>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SMTP-4A90E2?style=for-the-badge" />
 
 <p>
-  <center>
-    <a href="https://github.com/jaishmomin/ghardekho">
-      <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
-    </a>
-  </center>
+  <a href="https://github.com/jaishmomin/ghardekho">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
